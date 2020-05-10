@@ -1,6 +1,6 @@
-def roll_call_dwarves(dwrf)
+def roll_call_dwarves(d_array)
   # Your code here
-  dwrf
+  d_array
   
   
 end
