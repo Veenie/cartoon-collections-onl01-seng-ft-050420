@@ -1,7 +1,7 @@
 def roll_call_dwarves(d_array)
   # Your code here
   d_array.collect do |dwrf|
-  dwrf.each_with_index
+  dwrf
   end
   
   
