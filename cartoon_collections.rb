@@ -4,7 +4,6 @@ def roll_call_dwarves(d_array)
       current_line << "#{i}. #{person}"
     end
     current_line
-  end
 end
   
   
