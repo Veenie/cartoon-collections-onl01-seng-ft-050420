@@ -12,6 +12,7 @@ end
 
 def summon_captain_planet(calls)
   # Your code here
+  
   calls.map {|call| call.capitalize}
   
 end
