@@ -1,5 +1,5 @@
 def roll_call_dwarves(d_array)
-  d_array.map {|item| item}
+  d_array.map {|item| item + 1}
   end
   
   
