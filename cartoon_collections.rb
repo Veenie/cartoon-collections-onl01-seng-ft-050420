@@ -1,4 +1,5 @@
 def roll_call_dwarves(d_array)
+  dwarf_list = []
   d_array.map |item|
   item
   end
