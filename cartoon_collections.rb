@@ -15,7 +15,7 @@ def summon_captain_planet(calls)
   i = 0
   output = []
   while i < calls.length
-  output << calls.capitalize + "!"
+  output << calls[i].capitalize + "!"
   i = i + 1
   end
   output
