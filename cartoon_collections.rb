@@ -1,6 +1,6 @@
 def roll_call_dwarves(dwrf)
   # Your code here
-  
+  dwrf
   
   
 end
