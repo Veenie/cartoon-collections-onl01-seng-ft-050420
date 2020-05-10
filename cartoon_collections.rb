@@ -14,7 +14,7 @@ def summon_captain_planet(calls)
   # Your code here
   output = []
   while i < calls.length
-  calls.map {|call| call.capitalize}
+  output << call.capitalize}
   
 end
 
